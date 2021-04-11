@@ -1,0 +1,36 @@
+--------------------
+Date: 6:1:2021
+Time: 0:44
+Phone number: +919088180701
+Message: o bobbo janooo! ei message ta ekta bot pathache.. tomar bobbo pathay ni... sob python kore dilo
+--------------------
+Date: 6:1:2021
+Time: 1:34
+Phone number: +919088180701
+Message: i am a bot
+--------------------
+Date: 6:1:2021
+Time: 2:1
+Phone number: +919088180701
+Message: Bobbo I love you
+--------------------
+Date: 6:1:2021
+Time: 2:1
+Phone number: +919088180701
+Message: Bobbo I love you
+--------------------
+Date: 6:1:2021
+Time: 12:28
+Phone number: +918274870858
+Message: hai
+--------------------
+Date: 7:1:2021
+Time: 1:13
+Phone number: +919088180701
+Message: hay bo
+--------------------
+Date: 10:1:2021
+Time: 21:40
+Phone number: +916291957700
+Message: Hey, I am bot
+--------------------

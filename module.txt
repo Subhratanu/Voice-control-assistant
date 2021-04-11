@@ -1,0 +1,30 @@
+pip install SpeechRecognition
+pip install PyAudio (if not installed)
+	pip install pipwin
+	pipwin install pyaudio
+pip install wikipedia
+pip install pyttsx3
+
+if pyttx3 giving error after line of code
+pip uninstall pyttsx3
+pip install pyttsx3==2.7
+
+
+chatbot
+pip install tensorflow
+
+Qr
+pip install pyzbar
+pip install opencv-contrib-python
+
+joke
+pip install pyjokes
+
+cricket
+pip install pycricbuzz
+
+alarm
+pip install datefinder
+
+whatsapp
+pip install pywhatkit
